@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Bilbo Swash Caps
+- Font Author: Copyright (c) 2011 TypeSETit, LLC (typesetit@att.net), with Reserved Font Names "Bilbo" and "Bilbo Swash Caps"
+- Font Source: http://fonts.gstatic.com/s/bilboswashcaps/v15/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdqAPopiRfKp8.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
